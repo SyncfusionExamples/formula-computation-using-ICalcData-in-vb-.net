@@ -1,4 +1,4 @@
-# Formula computation using ICalcData in vb .net
+# Formula Computation Using ICalcData in VB.NET
 
 This example demonstrates how to compute the formulas using `ICalcData` in Vb.Net.
 
